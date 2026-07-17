@@ -11,7 +11,7 @@ Kesehatan mental mahasiswa merupakan salah satu isu penting yang memengaruhi pre
 
 ---
 
-## 🎯 Tujuan Penelitian
+## Tujuan Penelitian
 
 - Membangun pipeline preprocessing data yang baik.
 - Membandingkan performa Logistic Regression dan Random Forest.
@@ -144,7 +144,7 @@ Hasil penelitian menunjukkan bahwa:
 
 ---
 
-## 📌 Faktor Risiko Utama
+## Faktor Risiko Utama
 
 Penelitian menemukan beberapa faktor utama penyebab depresi:
 
@@ -243,6 +243,6 @@ Institut Teknologi Garut
 
 ---
 
-## 📄 Lisensi
+## Lisensi
 
 Project ini dibuat untuk keperluan akademik sebagai Tugas Akhir Mata Kuliah Kecerdasan Buatan (Artificial Intelligence).
